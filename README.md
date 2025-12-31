@@ -1,7 +1,7 @@
 # esp32-wake-on-lan
 Panel en EPS32 para encender equipos por la Red y recibir notificaciones a traves de un bot de telegram
 
-[ Usuario y password default: user: admin password: admin123
+[ Usuario y password default: user: admin password: admin123 ]
 
 ¿Qué hace el proyecto?
 
