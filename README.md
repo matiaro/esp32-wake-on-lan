@@ -31,6 +31,7 @@ Casos típicos de uso:
 •	Automatización básica de encendido de equipos
 ________________________________________
 ¿Cómo pueden los usuarios comenzar con el proyecto?
+
 Requisitos
 •	ESP32 (probado con DOIT ESP32 DEVKIT V1)
 •	Arduino IDE
@@ -59,6 +60,7 @@ o	Puerto WOL
 o	Telegram (opcional)
 ________________________________________
 ¿Dónde pueden los usuarios obtener ayuda con el proyecto?
+
 Los usuarios pueden obtener ayuda mediante:
 •	La sección Issues del repositorio de GitHub
 •	Revisando el código fuente (está comentado y organizado por secciones)
@@ -70,6 +72,7 @@ Para reportar un problema, es recomendable incluir:
 •	Qué acción produjo el error
 ________________________________________
 ¿Quién mantiene y contribuye al proyecto?
+
 Este proyecto es mantenido por Luis Leonel Gómez Álvarez.
 Actualmente:
 •	El desarrollo y mantenimiento es individual
