@@ -113,10 +113,15 @@ ________________________________________
 ¿Quién mantiene y contribuye al proyecto?
 
 Este proyecto es mantenido por Luis Leonel Gómez Álvarez.
+
 Actualmente:
+
 •	El desarrollo y mantenimiento es individual
+
 •	Las contribuciones externas son bienvenidas mediante pull requests
+
 •	Las mejoras se evalúan según estabilidad y coherencia con el diseño original
+
 ________________________________________
 
 Informaciones Tecnicas para acceder al equipo una vez compilado esta es la informacion para acceder
