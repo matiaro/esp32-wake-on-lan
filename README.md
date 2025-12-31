@@ -3,6 +3,7 @@ Panel en EPS32 para encender equipos por la Red y recibir notificaciones de tele
 
 
 ¿Qué hace el proyecto?
+
 Este proyecto implementa un panel web de administración en un ESP32 para gestionar Wake on LAN (WOL) y conectividad de red.
 El ESP32 actúa como:
 •	Cliente Wi-Fi (STA) o Access Point (AP), o ambos simultáneamente
@@ -14,6 +15,7 @@ El ESP32 actúa como:
 Toda la configuración se realiza desde una interfaz web, sin necesidad de recompilar el firmware.
 ________________________________________
 ¿Por qué es útil el proyecto?
+
 Este proyecto es útil cuando se necesita:
 •	Encender computadoras o servidores remotamente sin depender de un PC intermedio
 •	Centralizar Wake on LAN para múltiples equipos
