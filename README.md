@@ -34,15 +34,26 @@ ________________________________________
 
 Requisitos
 •	ESP32 (probado con DOIT ESP32 DEVKIT V1)
+
+
 •	Arduino IDE
+
 •	Librerías:
+
 o	WiFi
+
 o	WebServer
+
 o	Preferences
+
 o	WiFiUdp
+
 o	ESPping
+
 o	WiFiClientSecure
+
 o	HTTPClient
+
 Pasos básicos
 1.	Clonar o descargar este repositorio
 2.	Abrir el archivo .ino en Arduino IDE
