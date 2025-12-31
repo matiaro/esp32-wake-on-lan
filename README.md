@@ -3,6 +3,9 @@ Panel en EPS32 para encender equipos por la Red y recibir notificaciones a trave
 
 [ Usuario y password default: user: admin password: admin123 ]
 
+SSID AP Default: ESP32-SETUP key: 12345678 IP: 192.168.4.1
+
+
 ¿Qué hace el proyecto?
 
 Este proyecto implementa un panel web de administración en un ESP32 para gestionar Wake on LAN (WOL) y conectividad de red.
