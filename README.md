@@ -1,11 +1,6 @@
 # esp32-wake-on-lan
 Panel en EPS32 para encender equipos por la Red y recibir notificaciones a traves de un bot de telegram
 
-[ Usuario y password default: user: admin password: admin123 ]
-
-SSID AP Default: ESP32-SETUP key: 12345678 IP: 192.168.4.1
-
-
 ¿Qué hace el proyecto?
 
 Este proyecto implementa un panel web de administración en un ESP32 para gestionar Wake on LAN (WOL) y conectividad de red.
@@ -74,6 +69,7 @@ o	Equipos WOL
 o	Puerto WOL
 o	Telegram (opcional)
 ________________________________________
+
 ¿Dónde pueden los usuarios obtener ayuda con el proyecto?
 
 Los usuarios pueden obtener ayuda mediante:
@@ -86,6 +82,7 @@ Para reportar un problema, es recomendable incluir:
 •	Configuración de red utilizada
 •	Qué acción produjo el error
 ________________________________________
+
 ¿Quién mantiene y contribuye al proyecto?
 
 Este proyecto es mantenido por Luis Leonel Gómez Álvarez.
@@ -93,5 +90,9 @@ Actualmente:
 •	El desarrollo y mantenimiento es individual
 •	Las contribuciones externas son bienvenidas mediante pull requests
 •	Las mejoras se evalúan según estabilidad y coherencia con el diseño original
+________________________________________
 
+Informaciones Tecnicas para acceder al equipo una vez compilado esta es la informacion para acceder
+[ Usuario y password default: user: admin password: admin123 ]
+SSID AP Default: ESP32-SETUP key: 12345678 IP: 192.168.4.1
 
