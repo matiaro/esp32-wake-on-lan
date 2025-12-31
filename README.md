@@ -50,6 +50,7 @@ ________________________________________
 ¿Cómo pueden los usuarios comenzar con el proyecto?
 
 Requisitos
+
 •	ESP32 (probado con DOIT ESP32 DEVKIT V1)
 
 
