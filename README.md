@@ -1,5 +1,5 @@
 # esp32-wake-on-lan
-Panel en EPS32 para encender equipos por la Red y recibir notificaciones de telegram de su estado
+Panel en EPS32 para encender equipos por la Red y recibir notificaciones a traves de un bot de telegram
 
 
 ¿Qué hace el proyecto?
