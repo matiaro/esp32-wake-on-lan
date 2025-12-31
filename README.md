@@ -23,17 +23,28 @@ ________________________________________
 
 Este proyecto es útil cuando se necesita:
 •	Encender computadoras o servidores remotamente sin depender de un PC intermedio
+
 •	Centralizar Wake on LAN para múltiples equipos
+
 •	Tener un dispositivo autónomo y de bajo consumo (ESP32)
+
 •	Configurar red, credenciales y WOL dinámicamente
+
 •	Operar incluso en entornos sin infraestructura (modo Access Point)
+
 •	Recibir notificaciones de estado de los equipos
+
 Casos típicos de uso:
 •	Home lab
+
 •	Laboratorios de redes
+
 •	Oficinas pequeñas
+
 •	Soporte técnico remoto
+
 •	Automatización básica de encendido de equipos
+
 ________________________________________
 ¿Cómo pueden los usuarios comenzar con el proyecto?
 
