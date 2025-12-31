@@ -73,10 +73,5 @@ Actualmente:
 •	El desarrollo y mantenimiento es individual
 •	Las contribuciones externas son bienvenidas mediante pull requests
 •	Las mejoras se evalúan según estabilidad y coherencia con el diseño original
-________________________________________
-Si quieres, en el próximo mensaje puedo:
-•	Ajustar el texto para un repo público o privado
-•	Traducirlo al inglés
-•	Añadir una sección de licencia
-•	Añadir un diagrama de arquitectura (ESP32 ↔ red ↔ equipos)
+
 
