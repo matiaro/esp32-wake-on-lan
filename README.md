@@ -90,13 +90,21 @@ ________________________________________
 ¿Dónde pueden los usuarios obtener ayuda con el proyecto?
 
 Los usuarios pueden obtener ayuda mediante:
+
 •	La sección Issues del repositorio de GitHub
+
 •	Revisando el código fuente (está comentado y organizado por secciones)
+
 •	Probando primero con configuración mínima (AP + 1 equipo WOL)
+
 Para reportar un problema, es recomendable incluir:
+
 •	Modelo exacto del ESP32
+
 •	Logs del monitor serial
+
 •	Configuración de red utilizada
+
 •	Qué acción produjo el error
 ________________________________________
 
