@@ -132,7 +132,7 @@ Informaciones Tecnicas para acceder al equipo una vez compilado esta es la infor
 
 ## Interfaz web
 
-![Panel principal](panel.png)
+![Panel principal](/panel.png)
 
 
 
