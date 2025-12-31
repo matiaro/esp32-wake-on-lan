@@ -128,10 +128,12 @@ Informaciones Tecnicas para acceder al equipo una vez compilado esta es la infor
 
 •[ Usuario y password default: user: admin password: admin123 ]
 
+•SSID AP Default: ESP32-SETUP key: 12345678 IP: 192.168.4.1
+
 ## Interfaz web
 
 ![Panel principal](panel.png)
 
 
-•SSID AP Default: ESP32-SETUP key: 12345678 IP: 192.168.4.1
+
 
