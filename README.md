@@ -124,7 +124,7 @@ Actualmente:
 
 ________________________________________
 
-Informaciones Tecnicas para acceder al equipo una vez compilado esta es la informacion para acceder
+Informaciones Tecnicas para acceder al equipo una vez compilado
 
 •[ Usuario y password default: user: admin password: admin123 ]
 
