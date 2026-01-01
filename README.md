@@ -134,7 +134,7 @@ Informaciones Tecnicas para acceder al equipo una vez compilado esta es la infor
 
 ![Panel](images/panel.PNG)
 
-images/panel.PNG
+
 
 
 
