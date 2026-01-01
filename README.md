@@ -36,6 +36,7 @@ Este proyecto es útil cuando se necesita:
 •	Recibir notificaciones de estado de los equipos
 
 Casos típicos de uso:
+
 •	Home lab
 
 •	Laboratorios de redes
