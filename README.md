@@ -132,7 +132,7 @@ Informaciones Tecnicas para acceder al equipo una vez compilado esta es la infor
 
 ## Interfaz web
 
-![Panel](esp32-wake-on-lan/images/panel.PNG)
+![Panel](images/panel.PNG)
 
 images/panel.PNG
 
